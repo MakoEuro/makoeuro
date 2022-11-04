@@ -2,7 +2,7 @@
 
 # ❤️ About me
 Hi there! My name is Mako, and I'm a beginner software developer who started learning and really getting into
-coding back at the start of high school in 2017. Since then I've gained a lot of interested in coding and learning
+coding back at the start of high school in 2017. Since then I've gained a lot of interest in coding and learning
 the depths of computers.
 
 I'm studying to become a professional software developer at [MITT](https://mitt.ca/)
