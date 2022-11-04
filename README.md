@@ -12,6 +12,13 @@ hobby/side job of *DJing*. I make remixes for a company and for entertainment.
 
 Always looking for new people to meet, so why not reach out?
 
+# Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 # Stats
 
 <a href="https://github.com/makoeuro">
