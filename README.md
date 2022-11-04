@@ -11,3 +11,13 @@ I'm studying to become a professional software developer at [MITT](https://mitt.
 hobby/side job of *DJing*. I make remixes for a company and for entertainment.
 
 Always looking for new people to meet, so why not reach out?
+
+# Stats
+
+<a href="https://github.com/makoeuro">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=makoeuro&show_icons=true&theme=omni" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/makoeuro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makoeuro&theme=omni" alt="My 
+  GitHub stats"/>
+</a>
