@@ -1,4 +1,4 @@
-<img width="1152" height="720" src="https://i.ytimg.com/vi/n4DfGeC0Kxw/maxresdefault.jpg">
+
 
 # ❤️ About me
 Hi there! My name is Mako, and I'm a beginner software developer who started learning and really getting into
