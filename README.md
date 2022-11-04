@@ -1,4 +1,4 @@
-
+![Welcome Purple Galaxy](assets/galaxyWelcome.jpg "Welcome Galaxy Image")
 
 # ❤️ About me
 Hi there! My name is Mako, and I'm a beginner software developer who started learning and really getting into
